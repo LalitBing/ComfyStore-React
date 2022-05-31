@@ -1,4 +1,4 @@
-# ComfyStore-React
+# ComfyStore-React 🏪
 
 Comfy store is a modern E-commerce Platform.
 
